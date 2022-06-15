@@ -2,7 +2,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcbrigham&theme=vue-dark)](https://git.io/streak-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=marcbrigham&left_color=green&right_color=#273849)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=marcbrigham&left_color=#70d44b&right_color=#273849)
 <!--
 
 Here are some ideas to get you started:
