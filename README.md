@@ -1,6 +1,4 @@
-<p align=center>Hi, my name is Marc 👋 and I ❤️ front-end</p>
-
-<hr />
+###Hi, my name is Marc 👋 and I ❤️ front-end
 
 ### Skills 🛠️
 - **Languages**:        HTML, CSS, JS, VUE, Angular, & PHP
