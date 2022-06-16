@@ -1,15 +1,21 @@
-<p align=center>### Hi there 👋</p>
+<p align=center>Hi, my name is Marc 👋 and I ❤️ front-end</p>
 
 <hr />
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=marcbrigham&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=marcbrigham&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=marcbrigham&theme=dracula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-  <a href="https://www.buymeacoffee.com/marcbrigham"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="marcbrigham" /></a>
-</p>
+### Skills 🛠️
+- **Languages**:        HTML, CSS, JS, VUE, Angular, & PHP
+
+### Work experience 👔
+| Job Position             | Company           | Field                           | Work Period                |
+| ------------------------ | ----------------- | ------------------------------- | -------------------------- |
+| **Front-End Developer**  | **FantasyPros**   | **Fantasy Sports**              | **10.11.2021 — current**   |
+| Manager of Front-End     | SIDEARM Sports    | College Athletics               | 04.02.2021 — 10.08.2021    |
+| Front-End Developer      | SIDEARM Sports    | College Athletics               | 04.25.2016 — 04.01.2021    |
+
+More about work experience in my [LinkedIn](https://www.linkedin.com/in/marcbrigham/)
+
+### Github Stats ⭐
+[![Marc Brigham's github stats](https://github-readme-stats.vercel.app/api?username=marcbrigham&show_icons=true&theme=tokyonight)](https://github.com/marcbrigham/github-readme-stats)
 
 <!--
 
