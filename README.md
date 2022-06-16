@@ -1,4 +1,5 @@
-###Hi, my name is Marc 👋 and I ❤️ front-end
+### Hi, my name is Marc 👋 and I ❤️ front-end
+- **Front-End Developer** at [FantasyPros](https://www.fantasypros.com/)
 
 ### Skills 🛠️
 - **Languages**:        HTML, CSS, JS, VUE, Angular, & PHP
