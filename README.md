@@ -36,7 +36,7 @@ More about work experience in my [LinkedIn](https://www.linkedin.com/in/marcbrig
 
 ### Profile Views
 
-![Profile views](https://gpvc.arturio.dev/saalikmubeen)
+![Profile views](https://gpvc.arturio.dev/marcbrigham)
 
 <!--
 
