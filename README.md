@@ -32,9 +32,6 @@
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/marcbrigham/)
 
-### Github Stats ⭐
-[![Marc Brigham's github stats](https://github-readme-stats.vercel.app/api?username=marcbrigham&show_icons=true&theme=tokyonight)](https://github.com/marcbrigham/github-readme-stats)
-
 ### Profile Views
 
 ![Profile views](https://gpvc.arturio.dev/marcbrigham)
