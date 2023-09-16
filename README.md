@@ -32,10 +32,6 @@
 
 More about work experience in my [LinkedIn](https://www.linkedin.com/in/marcbrigham/)
 
-### Profile Views
-
-![Profile views](https://gpvc.arturio.dev/marcbrigham)
-
 <!--
 
 Here are some ideas to get you started:
