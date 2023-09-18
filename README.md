@@ -1,6 +1,6 @@
 ### Hey there 👋, I'm Marc Brigham
 
-- **Front-End Developer** at **[FantasyPros](https://www.fantasypros.com/)**
+- **Front-End Developer**
 - **B.S, Information Technology** at **[RIT 🐯](https://www.rit.edu/)**
 
 ### 💼 Skills and Tech Stack I work with:
