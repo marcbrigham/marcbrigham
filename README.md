@@ -26,7 +26,7 @@
 ### Work experience 👔
 | Job Position             | Company           | Field                           | Work Period                |
 | ------------------------ | ----------------- | ------------------------------- | -------------------------- |
-| **Front-End Developer**  | **FantasyPros**   | **Fantasy Sports**              | **11.05.2021 — current**   |
+| Front-End Developer      | FantasyPros       | Fantasy Sports                  | 11.05.2021 — 9.15.2023     |
 | Manager of Front-End     | SIDEARM Sports    | College Athletics               | 04.02.2021 — 10.08.2021    |
 | Front-End Developer      | SIDEARM Sports    | College Athletics               | 04.25.2016 — 04.01.2021    |
 
